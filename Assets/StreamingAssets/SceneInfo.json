@@ -1,0 +1,5 @@
+[
+{"id":1,"imgRes":"SceneImg/GameScene1","name":"Forest","tips":"A dense forest covered in mist. The sound of the wind hides the growls of the undead.","sceneName":"GameScene1","money":200,"towerHp":100},
+{"id":2,"imgRes":"SceneImg/GameScene2","name":"Snowfield","tips":"An abandoned military base buried in snow.One mistake will cost you dearly. ","sceneName":"GameScene2","money":200,"towerHp":100},
+{"id":3,"imgRes":"SceneImg/GameScene3","name":"Dry Land","tips":"A cracked, sun-scorched wasteland.Face the endless horde head-on and prove your will to survive.","sceneName":"GameScene3","money":200,"towerHp":100}
+]
